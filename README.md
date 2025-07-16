@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Gourav Chouhan</h1>
 <h3 align="center">A passionate full-stack developer who loves turning ideas into clean, user-friendly apps. I build intuitive frontends with React And HTML, CSS & JavaScript, and robust backends with Node.js, Express.js & MongoDB. Skilled in Java, MySQL, and OOPs, I thrive on problem-solving, continuous learning.</h3>
 
-<br/>
-<br/>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
