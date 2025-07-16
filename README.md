@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Gourav Chouhan</h1>
 <h3 align="center">A passionate full-stack developer who loves turning ideas into clean, user-friendly apps. I build intuitive frontends with React And HTML, CSS & JavaScript, and robust backends with Node.js, Express.js & MongoDB. Skilled in Java, MySQL, and OOPs, I thrive on problem-solving, continuous learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <br/>
 <br/>
